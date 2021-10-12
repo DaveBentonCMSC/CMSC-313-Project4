@@ -3,3 +3,6 @@
  
  
  Hidden easter egg can be accessed by enter "c" into the main menu repeatedly. 
+
+
+To build, run the makefile
